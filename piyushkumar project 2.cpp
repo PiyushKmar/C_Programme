@@ -1,4 +1,4 @@
-
+// Program for finding area and perimeter of traingle 
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
@@ -15,7 +15,10 @@ int main()
 	return 0;
 }
 
-
+// Program of swapping two numbers without any opreator 
+#include<stdio.h>
+#include<conio.h>
+#include<math.h>
 	
 int main()
 {
@@ -29,10 +32,15 @@ int main()
 	a=b;
 	b=c;
 	printf("\nafter swapin value %.2f,%.2f",a,b);
+
+	return 0;
 }
 
 
-
+//Program of swaping two using Airthmatic Operator
+#include<stdio.h>
+#include<conio.h>
+#include<math.h>
 
 int main()
 {
@@ -45,11 +53,15 @@ int main()
 	b=a-b;
 	a=a-b;
 	printf("after swaping number %.2f,%.2f",a,b);
+	return 0;
 
 
 }
 
-
+//Program of finding size of every datatype
+#include<stdio.h>
+#include<conio.h>
+#include<math.h>
 int main()
 {
 
